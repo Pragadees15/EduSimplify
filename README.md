@@ -68,6 +68,3 @@ EduSimplify/
 Developed using **Python, Streamlit, and Gemini API**.
 
 ---
-
-## 🐟 License
-This project is licensed under the **MIT License**.
